@@ -23,7 +23,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 🇳 🇴 🇧 🇮 🇹 🇦  🌹", url=f"https://t.me/P_O_I_S_O_N0")
+                        "ʕ˖͜͡˖ʔ𝗡𝗢𝗕𝗜𝗧𝗔ʕ˖͜͡˖ʔ", url=f"https://t.me/P_O_I_S_O_N0")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 🇳 🇴  🇧 🇮 🇹 🇦  🌹", url=f"https://t.me/P_O_I_S_O_N0")
+                        "ʕ˖͜͡˖ʔ𝗡𝗢𝗕𝗜𝗧𝗔ʕ˖͜͡˖ʔ", url=f"https://t.me/P_O_I_S_O_N0")
                 ]
             ]
         ),
@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/sanju9636/DAXX-MUSIC")
+                        "ʕ˖͜͡˖ʔ𝘀𝗼𝘂𝗿𝗰𝗲ʕ˖͜͡˖ʔ", url=f"https://t.me/Want_To_Know_Mee/34")
                 ]
             ]
         ),
